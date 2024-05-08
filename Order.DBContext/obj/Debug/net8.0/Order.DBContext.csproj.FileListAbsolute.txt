@@ -1,0 +1,17 @@
+D:\Project\Order\Order.DBContext\bin\Debug\net8.0\Order.DBContext.deps.json
+D:\Project\Order\Order.DBContext\bin\Debug\net8.0\Order.DBContext.runtimeconfig.json
+D:\Project\Order\Order.DBContext\bin\Debug\net8.0\Order.DBContext.dll
+D:\Project\Order\Order.DBContext\bin\Debug\net8.0\Order.DBContext.pdb
+D:\Project\Order\Order.DBContext\bin\Debug\net8.0\Order.Domain.dll
+D:\Project\Order\Order.DBContext\bin\Debug\net8.0\Order.Domain.pdb
+D:\Project\Order\Order.DBContext\obj\Debug\net8.0\Order.DBContext.csproj.AssemblyReference.cache
+D:\Project\Order\Order.DBContext\obj\Debug\net8.0\Order.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Order\Order.DBContext\obj\Debug\net8.0\Order.DBContext.AssemblyInfoInputs.cache
+D:\Project\Order\Order.DBContext\obj\Debug\net8.0\Order.DBContext.AssemblyInfo.cs
+D:\Project\Order\Order.DBContext\obj\Debug\net8.0\Order.DBContext.csproj.CoreCompileInputs.cache
+D:\Project\Order\Order.DBContext\obj\Debug\net8.0\Order.DBContext.csproj.CopyComplete
+D:\Project\Order\Order.DBContext\obj\Debug\net8.0\Order.DBContext.dll
+D:\Project\Order\Order.DBContext\obj\Debug\net8.0\refint\Order.DBContext.dll
+D:\Project\Order\Order.DBContext\obj\Debug\net8.0\Order.DBContext.pdb
+D:\Project\Order\Order.DBContext\obj\Debug\net8.0\Order.DBContext.genruntimeconfig.cache
+D:\Project\Order\Order.DBContext\obj\Debug\net8.0\ref\Order.DBContext.dll

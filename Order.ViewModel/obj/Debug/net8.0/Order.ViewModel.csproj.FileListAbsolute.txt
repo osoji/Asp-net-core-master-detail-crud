@@ -1,0 +1,11 @@
+D:\Project\Order\Order.ViewModel\bin\Debug\net8.0\Order.ViewModel.deps.json
+D:\Project\Order\Order.ViewModel\bin\Debug\net8.0\Order.ViewModel.dll
+D:\Project\Order\Order.ViewModel\bin\Debug\net8.0\Order.ViewModel.pdb
+D:\Project\Order\Order.ViewModel\obj\Debug\net8.0\Order.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Order\Order.ViewModel\obj\Debug\net8.0\Order.ViewModel.AssemblyInfoInputs.cache
+D:\Project\Order\Order.ViewModel\obj\Debug\net8.0\Order.ViewModel.AssemblyInfo.cs
+D:\Project\Order\Order.ViewModel\obj\Debug\net8.0\Order.ViewModel.csproj.CoreCompileInputs.cache
+D:\Project\Order\Order.ViewModel\obj\Debug\net8.0\Order.ViewModel.dll
+D:\Project\Order\Order.ViewModel\obj\Debug\net8.0\refint\Order.ViewModel.dll
+D:\Project\Order\Order.ViewModel\obj\Debug\net8.0\Order.ViewModel.pdb
+D:\Project\Order\Order.ViewModel\obj\Debug\net8.0\ref\Order.ViewModel.dll
